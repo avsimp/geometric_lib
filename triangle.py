@@ -1,20 +1,20 @@
 def area(a, h):
     '''
     Receive:
-        a (int/float): base of the triangle
-        h (int/float): triangle height(to the base)
+        a (float): base of the triangle
+        h (float): triangle height(to the base)
     Return:
-        triangle area (int/float): S = a * h / 2 
+        triangle area (float): S = a * h / 2 
     '''
     return a * h / 2 
 
 def perimeter(a, b, c):
     '''
     Receive:
-        a (int/float): first triangle side
-        b (int/float): second triangle side
-        c (int/float): third triangle side
+        a (float): first triangle side
+        b (float): second triangle side
+        c (float): third triangle side
     Return:
-        triangle perimeter (int/float): P = a + b + c
+        triangle perimeter (float): P = a + b + c
     '''
     return a + b + c 

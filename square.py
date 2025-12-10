@@ -1,9 +1,9 @@
 def area(a):
     '''
     Receive:
-        a (int/float): square side
+        a (float): square side
     Return:
-        square area (int/float): S = a * a = a^2 
+        square area (float): S = a * a = a^2 
     '''
     return a * a
 
@@ -11,8 +11,8 @@ def area(a):
 def perimeter(a):
     '''
     Receive:
-        a (int/float): square side
+        a (float): square side
     Return:
-        square perimeter (int/float): P = a + a + a + a = a * 4 
+        square perimeter (float): P = a + a + a + a = a * 4 
     '''
     return 4 * a

@@ -1,4 +1,7 @@
 # Commits overview
+### commit 938322f
+**Date:** Wed Oct 1 23:20:09 2025 +0300\
+**Message:** Docs updated. Comments added in files
 ### commit 5c99514
 **Date:** Wed Oct 1 17:16:38 2025 +0300\
 **Message:** perimeter func fix in rectangle.py. triangle.py added

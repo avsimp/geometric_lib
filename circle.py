@@ -4,7 +4,7 @@ import math # using for pi value
 def area(r):
     '''
     Receive:
-        r (int/float): radius of circle
+        r (float): radius of circle
     Return:
         circle area (float): S = Pi*r^2  
     '''
@@ -14,7 +14,7 @@ def area(r):
 def perimeter(r):
     '''
     Receive:
-        r (int/float): radius of circle
+        r (float): radius of circle
     Return:
         circle perimeter (float): P = 2*Pi*r
     '''
