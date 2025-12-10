@@ -5,7 +5,7 @@ def area(a):
     Return:
         square area (float): S = a * a = a^2 
     '''
-    return a * a + 1
+    return a * a
 
 
 def perimeter(a):
