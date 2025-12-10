@@ -1,4 +1,7 @@
 # Commits overview
+### commit 3e8c0e1
+**Date:** Wed Dec 10 21:06:34 2025 +0300\
+**Message:** Small docs fixes
 ### commit 938322f
 **Date:** Wed Oct 1 23:20:09 2025 +0300\
 **Message:** Docs updated. Comments added in files
