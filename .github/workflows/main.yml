@@ -1,0 +1,17 @@
+name: CI
+on:
+    push:
+
+jobs:
+    ubuntu_tests:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - name: run tests
+          run: python3 -m unittest tests.py
+    windows_tests:
+      runs-on: windows-latest
+      steps:
+        - uses: actions/checkout@v3
+        - name: run tests
+          run: python.exe -m unittest tests.py
